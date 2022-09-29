@@ -1,5 +1,0 @@
-this is to know about merging
-line added in login
-line added in register
-line added
-line in new
