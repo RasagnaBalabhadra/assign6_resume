@@ -1,0 +1,86 @@
+body{
+   
+    background-image: url(https://img.freepik.com/free-photo/interior-living-room-with-sofa-empty-dark-blue-wall-3d-rendering_41470-3621.jpg?size=626&ext=jpg&ga=GA1.2.1766537627.1663085741);
+   background-size: cover;
+   background-color: rgba(50, 44, 44,0.9);
+  
+}
+*
+{
+   color: white;
+  
+}
+div
+{
+    
+    display: inline-block;
+}
+
+
+.navbar li{
+   
+    font-size: 20px;
+    display: inline;
+   
+    margin-right: 10px;
+
+}
+li
+{
+    margin-left: 20px;
+}
+.first a{
+  
+    text-decoration: none;
+}
+.first a:hover{
+  
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+h1
+{
+   
+}
+.heading 
+{     
+    margin-left: 100px;
+    margin-right: 600px;
+    font-size: 30px;
+}
+.b
+{
+    border: 1px solid aqua;
+    
+   color: white;
+    border-radius: 10%;
+    margin-right: 5px;
+    padding: 2px;
+    padding-left:5px;
+    padding-right: 5px;
+}
+.b:hover
+{
+    background-color: aqua;
+}
+
+center
+
+{
+    margin-top: 140px;
+}
+div.s,div.w
+{
+    margin-left: 30px;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    padding: 8px 20px 8px 20px;
+}
+.s:hover
+{
+    background-color: aqua;
+}
+.w:hover
+{
+    background-color: aqua;
+}
